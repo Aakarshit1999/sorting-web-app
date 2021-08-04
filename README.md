@@ -1,9 +1,6 @@
 # sorting.js
 A visualization for a bunch of different sorting algorithms in Javascript.
 
-See a demo here:
-http://cs.stanford.edu/people/jcjohns/sorting.js/
-
 More specifically, we visualize in-place comparison-based sorting algorithms by highlighting each comparison in blue and each swap in red. Currently the following sorting algorithms are implemented:
 
 * [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
